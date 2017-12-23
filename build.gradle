@@ -1,0 +1,25 @@
+group 'org.jacoco'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'jacoco'
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile files('lib/neo4j-java-driver-1.4.4.jar')
+    compile files('lib/junit-4.10.jar')
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        html.enabled false
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testpackage.TestClass" tests="14" skipped="0" failures="0" errors="0" timestamp="2017-12-02T09:41:35" hostname="Asus-ПК" time="15.157">
+  <properties/>
+  <testcase name="task3aIsCorrect" classname="testpackage.TestClass" time="0.032"/>
+  <testcase name="task3bIsCorrect" classname="testpackage.TestClass" time="0.006"/>
+  <testcase name="task3cIsCorrect" classname="testpackage.TestClass" time="0.025"/>
+  <testcase name="task3dIsCorrect" classname="testpackage.TestClass" time="0.007"/>
+  <testcase name="task3eIsCorrect" classname="testpackage.TestClass" time="0.026"/>
+  <testcase name="task3fIsCorrect" classname="testpackage.TestClass" time="0.006"/>
+  <testcase name="task3gIsCorrect" classname="testpackage.TestClass" time="0.004"/>
+  <testcase name="task3hIsCorrect" classname="testpackage.TestClass" time="0.005"/>
+  <testcase name="task3jIsCorrect" classname="testpackage.TestClass" time="0.007"/>
+  <testcase name="task4aIsCorrect" classname="testpackage.TestClass" time="0.012"/>
+  <testcase name="task4bIsCorrect" classname="testpackage.TestClass" time="0.011"/>
+  <testcase name="task4cIsCorrect" classname="testpackage.TestClass" time="0.013"/>
+  <testcase name="task4dIsCorrect" classname="testpackage.TestClass" time="0.031"/>
+  <testcase name="task4iIsCorrect" classname="testpackage.TestClass" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

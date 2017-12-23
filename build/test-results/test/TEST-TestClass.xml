@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClass" tests="14" skipped="0" failures="0" errors="0" timestamp="2017-11-16T21:36:57" hostname="Asus-ПК" time="23.335">
+  <properties/>
+  <testcase name="task_3_a_isCorrect" classname="TestClass" time="0.045"/>
+  <testcase name="task_3_b_isCorrect" classname="TestClass" time="0.005"/>
+  <testcase name="task_3_c_isCorrect" classname="TestClass" time="0.006"/>
+  <testcase name="task_3_d_isCorrect" classname="TestClass" time="0.007"/>
+  <testcase name="task_3_e_isCorrect" classname="TestClass" time="0.01"/>
+  <testcase name="task_3_g_isCorrect" classname="TestClass" time="0.006"/>
+  <testcase name="task_3_h_isCorrect" classname="TestClass" time="0.017"/>
+  <testcase name="task_3_j_isCorrect" classname="TestClass" time="0.004"/>
+  <testcase name="task_4_a_isCorrect" classname="TestClass" time="0.01"/>
+  <testcase name="task_4_b_isCorrect" classname="TestClass" time="0.013"/>
+  <testcase name="task_4_c_isCorrect" classname="TestClass" time="0.01"/>
+  <testcase name="task_4_d_isCorrect" classname="TestClass" time="0.011"/>
+  <testcase name="task_4_i_isCorrect" classname="TestClass" time="0.009"/>
+  <testcase name="task_3_f_isCorrect" classname="TestClass" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
